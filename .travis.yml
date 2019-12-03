@@ -4,9 +4,9 @@ install:
 script:
   - hugo
 deploy:
-  - provider: pages
+    provider: pages
     keep_history: true
-    github_token: $MY_GITHUB_TOKEN
+    github_token: $github_token
     skip_cleanup: true
     local_dir: public
     on:

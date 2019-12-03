@@ -2,3 +2,31 @@ baseURL = "https://aaltomcc.github.io/cs-ej4101-fall-2019-083-advanced/"
 languageCode = "en-us"
 title = "cs-ej4101-fall-2019-083-advanced"
 theme="hugo-universal-theme"
+
+[menu]
+
+# Main menu
+
+[[menu.main]]
+    identifier="home"
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    identifier="blog"
+    name = "Blog"
+    url  = "/blog/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "faq"
+    name = "FAQ"
+    url  = "/faq/"
+    weight = 3
+
+[[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url  = "/contact/"
+    weight = 4

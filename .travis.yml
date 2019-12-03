@@ -1,15 +1,17 @@
 git:
   submodules: true
-install:
-  - curl -LO https://github.com/gohugoio/hugo/releases/download/v0.60.1/hugo_0.60.1_Linux-64bit.deb
-  - sudo dpkg -i hugo_0.60.1_Linux-64bit.deb
+language: node_js
+node_js:
+  - "stable"
+cache:
+  directories:
+  - node_modules
 script:
-  - hugo
+  - npm run build
 deploy:
-    provider: pages
-    keep_history: true
-    github_token: $github_token
-    skip_cleanup: true
-    local_dir: public
-    on:
-      branch: master
+  provider: pages
+  skip_cleanup: true
+  github_token: $github_token
+  local_dir: build
+  on:
+    branch: master

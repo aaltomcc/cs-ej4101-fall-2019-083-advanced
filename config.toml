@@ -1,7 +1,7 @@
 baseURL = "https://aaltomcc.github.io/cs-ej4101-fall-2019-083-advanced/"
 languageCode = "en-us"
 title = "cs-ej4101-fall-2019-083-advanced"
-theme="hugo-universal-theme"
+theme="hugo-universal-theme-master"
 
 [menu]
 

@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "cs-ej4101-fall-2019-083-advanced"
 theme="hugo-universal-theme-master"
 
+
 [menu]
 
 # Main menu
@@ -75,13 +76,19 @@ logo_small = "img/logo.png"
 style = "green"
 
 
+[params.recent_posts]
+    enable = true
+    title = "From our blog"
+    subtitle = "Pellen"
+
+    [params.features]
+        enable = true
 
 [params.carousel]
     enable = true
 
 
-[params.features]
-    enable = true
+
 
     [params.testimonials]
         enable = true

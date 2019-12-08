@@ -64,6 +64,8 @@ logo = "img/logo.png"
 logo_small = "img/logo.png"
 style = "green"
 
+
+
 [params.carousel]
     enable = true
 

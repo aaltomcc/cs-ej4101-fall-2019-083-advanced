@@ -14,15 +14,15 @@ theme="hugo-universal-theme-master"
     weight = 1
 
 [[menu.main]]
-    identifier="blog"
-    name = "Blog"
-    url  = "/blog/"
+    identifier="Course"
+    name = "Course"
+    url  = "/course/"
     weight = 2
 
 [[menu.main]]
-    identifier = "faq"
-    name = "FAQ"
-    url  = "/faq/"
+    identifier = "Learning"
+    name = "Learning"
+    url  = "/learning/"
     weight = 3
 
 [[menu.main]]

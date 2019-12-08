@@ -3,16 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-083-advanced/about/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-083-advanced/categories/</loc>
   </url>
   
   <url>
+    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-083-advanced/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-083-advanced/course/</loc>
+  </url>
+  
+  <url>
     <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-083-advanced/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-083-advanced/learning/</loc>
   </url>
   
   <url>

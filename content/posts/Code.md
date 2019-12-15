@@ -17,6 +17,3 @@ plt.plot(data)
 plt.show()
 
 ```
-
-### Example plot with the code
-![](https://i.imgur.com/IHw0HDQ.png)

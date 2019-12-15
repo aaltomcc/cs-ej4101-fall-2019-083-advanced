@@ -1,7 +1,8 @@
-baseURL = "https://aaltomcc.github.io/cs-ej4101-fall-2019-083-advanced/"
+baseurl = "https://example.com"
 languageCode = "en-us"
-title = "cs-ej4101-fall-2019-083-advanced"
-theme="hugo-grapes-master"
+title = "Hugo Grapes Theme"
+theme = "hugo-grapes"
+enableEmoji = true
 
 [permalinks]
   post = "/posts/:slug/"
@@ -21,4 +22,4 @@ theme="hugo-grapes-master"
     weight = 20
 
 [params]
-avatar = "img/tree.png"
+avatar = "img/grapes.svg"

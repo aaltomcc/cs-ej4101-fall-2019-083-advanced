@@ -1,18 +1,22 @@
 ---
 title: "Code Demo"
-date: 2019-12-15
+date: 2019-12-09
 draft: false
 ---
 
-## Python script
+## Simple plot with matplotlib
 ```python
-import
+import matplotlib.pyplot as plt
+import numpy as np
+
+data = np.random(5,2)
+data = np.random.rand(5,2)
+
+# Plot the random data
+plt.plot(data)
+plt.show()
 
 ```
 
-## Javascript
-```javascript
-
-
-
-```
+### Example plot with the code
+![](https://i.imgur.com/IHw0HDQ.png)

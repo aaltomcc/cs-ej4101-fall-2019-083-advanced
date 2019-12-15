@@ -1,35 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on cs-ej4101-fall-2019-083-advanced</title>
-    <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-083-advanced/</link>
-    <description>Recent content in Home on cs-ej4101-fall-2019-083-advanced</description>
+    <title>programming on cs-ej4101-fall-2019-083-advanced</title>
+    <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-083-advanced/categories/programming/</link>
+    <description>Recent content in programming on cs-ej4101-fall-2019-083-advanced</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Oct 2018 18:43:49 +0530</lastBuildDate>
     
-	<atom:link href="https://aaltomcc.github.io/cs-ej4101-fall-2019-083-advanced/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aaltomcc.github.io/cs-ej4101-fall-2019-083-advanced/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>this course 083</title>
-      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-083-advanced/posts/learning/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-083-advanced/posts/learning/</guid>
-      <description>this course 083 What I expected to learn
- There are many who pretend to despise and belittle that which is beyond their reach.
- </description>
-    </item>
-    
-    <item>
-      <title>learned 083</title>
-      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-083-advanced/posts/course/</link>
-      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-083-advanced/posts/course/</guid>
-      <description>learned 083 What I learned?</description>
-    </item>
     
     <item>
       <title>Code Demo</title>

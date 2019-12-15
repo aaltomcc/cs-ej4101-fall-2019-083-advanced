@@ -37,7 +37,7 @@
       <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-083-advanced/posts/code/</guid>
-      <description>Simple plot with matplotlib import matplotlib.pyplot as plt import numpy as np data = np.random(5,2) data = np.random.rand(5,2) # Plot the random data plt.plot(data) plt.show() Example plot with the code </description>
+      <description>Simple plot with matplotlib import matplotlib.pyplot as plt import numpy as np data = np.random(5,2) data = np.random.rand(5,2) # Plot the random data plt.plot(data) plt.show() </description>
     </item>
     
   </channel>

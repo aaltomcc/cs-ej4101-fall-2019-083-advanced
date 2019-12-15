@@ -11,14 +11,14 @@ theme="hugo-grapes-master"
   [[menu.main]]
     identifier = "home"
     name = "Home"
-    url = "/"
-    weight = 10
+    url = ""
+    weight = 1
 
   [[menu.main]]
     identifier = "posts"
     name = "Posts"
-    url = "/posts"
-    weight = 20
+    url = "posts/"
+    weight = 2
 
 [params]
 avatar = "img/tree.png"

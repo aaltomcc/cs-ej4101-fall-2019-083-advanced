@@ -26,7 +26,7 @@
       <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-083-advanced/posts/learning/</guid>
-      <description>learned 083 A few paragraphs or items in an unordered list immediately following the heading and explaining something new that you learned with the course and which was the most (or least) challenging part of it. The related textual content should be between 250 and 500 words combined.</description>
+      <description>learned 083  First of all, I learned the basic concepts of DevOps software practices and some of the tools used in DevOps. I learned more about the software development life cycle and why automation is important part of software development. The project was probably the best way to learn these things. I have done website with React in similar method as the course project. Deploying the project with Github gh-pages was not new for me, but making deployment pipeline with Travis CI was.</description>
     </item>
     
     <item>
